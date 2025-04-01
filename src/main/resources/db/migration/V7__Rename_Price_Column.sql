@@ -1,0 +1,1 @@
+ALTER TABLE hotels DROP COLUMN price;
